@@ -3,6 +3,8 @@
 Bienvenido al proyecto de gestión de Cursos desarrollado en Java utilizando el framework SpringBoot. Esta aplicación permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre una lista de cursos almacenados en una base de datos
 MYSQL.
 
+(TODO EL CÓDIGO LO PUEDES ENCONTRAR EN LA RAMA MASTER)
+
 ## Características
 
 - Agregar cursos nuevos
